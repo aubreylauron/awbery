@@ -1,1 +1,1 @@
-https://github.com/aubreylauron/aubrey.git
+https://aubreylauron.github.io/aubrey/
