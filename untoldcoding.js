@@ -1,5 +1,5 @@
 const text =
-  "To my man, I just wanted to tell you how much I admire you. The way you treat me is truly special, and I feel so lucky to have you in my life. I know that your life is busy and challenging, but you always makes time for me and make me feel loved and special. The way you understand me and accept me for who I am, even when I made a mistake and hurt your feelings is truly remarkable. I'm so grateful for your patience, understanding, and your unwavering love. I love you adi .";
+  "To my man, I just wanted to tell you how much I admire you. The way you treat me is truly special, and I feel so lucky to have you in my life. I know that your life is busy and challenging, but you always makes time for me and make me feel loved and special. The way you understand me and accept me for who I am, even when I made a mistake and hurt your feelings is truly remarkable. I'm so grateful for your patience, understanding, and your unwavering love. I love you so much .";
 
 const paragraph = text.split("");
 
